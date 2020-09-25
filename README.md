@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a full stack developer and passionate about profession. The main technologies I work on are React, NodeJS, GraphQL and Apoll
+
 <!--
 **iangerolamo/iangerolamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
